@@ -1,4 +1,4 @@
 R-Samples-coursera-assignments
 ==============================
 
-R samples
+R samples - snapshot
